@@ -1,2 +1,2 @@
 # dissertations
-MA, MRes and PhD disserations
+MA, MRes and PhD dissertations
